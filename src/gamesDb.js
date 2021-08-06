@@ -1,32 +1,32 @@
 const gamesDb = {
   RPG: [
     {
-      title: "1 Horizon Zero Dawn",
-      description: "1 Post apocalyptic mecha adventure"
+      title: "Horizon Zero Dawn",
+      description: "Post apocalyptic mecha adventure"
     },
     {
-      title: "2 Horizon Zero Dawn",
-      description: "2 Post apocalyptic mecha adventure"
+      title: "Rise of Tomb Raider",
+      description: "Gods are as real as they get"
     }
   ],
   FPS: [
     {
-      title: "1 Assasins Creed",
-      description: "1 War between Templar and the Ancients"
+      title: "Apex Legend",
+      description: "Who does not play it?"
     },
     {
-      title: "2 Assasins Creed",
-      description: "2 War between Templar and the Ancients"
+      title: "COD",
+      description: "Roger that"
     }
   ],
   "puzzle-y": [
     {
-      title: "1 Immortals Fenyx Rsing",
-      description: "1 Where is Medusa?"
+      title: "Immortals Fenyx Rsing",
+      description: "Where is Medusa?"
     },
     {
-      title: "2 Immortals Fenyx Rsing",
-      description: "2 Where is Medusa?"
+      title: "Assasins Creed",
+      description: "Non scalable walls are a huge pain"
     }
   ]
 };
