@@ -1,6 +1,6 @@
 function NavLink(props) {
   return (
-    <div style={{ marginTop: "50px" }}>
+    <div class="nav-links" style={{ marginTop: "50px" }}>
       <button
         onClick={() => props.onChangeLink(props.link)}
         className="nav-link"

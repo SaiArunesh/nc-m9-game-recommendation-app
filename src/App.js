@@ -16,7 +16,7 @@ export default function App() {
       {Object.keys(gamesDb).map((val, index) => (
         <NavLink key={index} link={val} onChangeLink={handleChangeLink} />
       ))}
-
+      <hr />
       {gamesDb[genre].map((game) => (
         <ItemDescription
           key={game.title}
